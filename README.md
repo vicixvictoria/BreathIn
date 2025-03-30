@@ -1,4 +1,4 @@
-# BreathIn 
+# BreathIn  
 Mockup for mobile serious game that supports people during smoking cessation from my Bachelor Thesis project "**Analysis and design study for the implementation of a mobile serious game to support smoking cessation**"
 
 Full Figma project here: https://www.figma.com/design/Uf1krZ867gHxavWkyZtYCg/MockUp_Bachelor?node-id=0-1&t=6PbIEZe8nCiexaQe-1 
